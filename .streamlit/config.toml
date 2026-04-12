@@ -1,0 +1,12 @@
+[client]
+showErrorDetails = "none"
+
+[theme]
+base="dark"
+backgroundColor="black"
+secondaryBackgroundColor="#8f9296"
+textColor = "white"
+
+[theme.sidebar]
+backgroundColor="#454647"
+secondaryBackgroundColor="white"
